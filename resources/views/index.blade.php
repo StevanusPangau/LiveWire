@@ -11,7 +11,10 @@
 </head>
 
 <body>
-    @livewire('hello-world')
+    {{-- ### Materi 1 ### --}}
+    {{-- @livewire('hello-world') --}}
+
+    @livewire('actions')
 
     @livewireScripts
 </body>
