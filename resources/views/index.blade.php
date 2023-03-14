@@ -18,7 +18,10 @@
     {{-- @livewire('actions') --}}
 
     {{-- ### Materi 3 ### --}}
-    @livewire('lifecycle-hooks', ['name' => 'Stevanus'])
+    {{-- @livewire('lifecycle-hooks', ['name' => 'Stevanus']) --}}
+
+    {{-- ### Materi 4 ### --}}
+    @livewire('nesting')
 
     @livewireScripts
 </body>
