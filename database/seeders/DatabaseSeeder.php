@@ -28,5 +28,13 @@ class DatabaseSeeder extends Seeder
         Contact::create([
             'name' => 'Tivani'
         ]);
+
+        Contact::create([
+            'name' => 'Cecil'
+        ]);
+
+        Contact::create([
+            'name' => 'Budi'
+        ]);
     }
 }
